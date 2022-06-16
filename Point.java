@@ -8,7 +8,7 @@ AUTHOR: David McConnell  dmcconn7    dmcconn7@asu.edu
  AUTHOR: Kari McBride     kemcbri2    kemcbri2@asu.edu
  */
 
-public class H03_61 {
+public class Point {
     public class Point implements Comparable<Point> {
         private double mX;
         private double mY;
